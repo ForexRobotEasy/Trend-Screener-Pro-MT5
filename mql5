@@ -1,0 +1,58 @@
+
+// +------------------------------------------------------------------+
+// |                                             Trend Screener Pro MT5 |
+// |                           Developed by: Forex Robot Easy Team |
+// |                                        Developer's Site: forexroboteasy.com |
+// +------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                Trend Scanner                                                         |
+//|                                             Customize Parameters:                                              |
+//|                                                      - Timeframe                                                       |
+//|                                                      - Currency Selection                                            |
+//|                                                      - Trend Analysis                                                   |
+//+------------------------------------------------------------------+
+void TrendScanner()
+{
+    // Trend scanning logic here
+    // Analysis of trends across multiple timeframes and currencies
+}
+
+//+------------------------------------------------------------------+
+//|                                              Trend Line with Max Profit Analysis                            |
+//|                                             Customize Parameters:                                              |
+//|                                                      - Trend Line Color                                               |
+//|                                                      - Trend Line Width                                               |
+//|                                                      - Trend Line Style                                                  |
+//|                                                      - Trend Reversal Analysis                                     |
+//+------------------------------------------------------------------+
+void TrendLine()
+{
+    // Trend line drawing logic here
+    // Analysis of trend strength, direction, and potential reversals
+}
+
+//+------------------------------------------------------------------+
+//|                                                          Trend Currency                                                 |
+//|                                             Customize Parameters:                                              |
+//|                                                      - Currency Selection                                            |
+//|                                                      - Trend Analysis                                                   |
+//+------------------------------------------------------------------+
+void TrendCurrency()
+{
+    // Trend currency selection logic here
+    // Analysis of trends for selected currencies
+}
+
+//+------------------------------------------------------------------+
+//|                                                       Program Start                                                        |
+//+------------------------------------------------------------------+
+void OnStart()
+{
+    // Call the necessary functions
+    TrendScanner();
+    TrendLine();
+    TrendCurrency();
+
+    // Add logical conclusion or further actions here
+}
